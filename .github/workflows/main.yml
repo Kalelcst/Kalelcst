@@ -10,16 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Kalelcst
           outputs: |
-            dist/ocean.gif
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Deploy Snake
-        uses: peaceiris/actions-gh-pages@v3
+      - uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
