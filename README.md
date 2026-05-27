@@ -22,6 +22,4 @@
   <a href="https://www.linkedin.com/in/kalelcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p align="center">
-  <img src="https://github.com/Kalelcst/Kalelcst/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
+![Snake animation](https://github.com/Kalelcst)
