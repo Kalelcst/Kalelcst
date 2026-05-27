@@ -23,5 +23,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/Kalelcst/Kalelcst/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/Kalelcst/Kalelcst/blob/output/github-contribution-grid-snake-dark.svg">
 </p>
