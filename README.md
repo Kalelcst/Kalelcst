@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/in/kalelcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Kalelcst/Kalelcst/output/github-contribution-grid-snake.svg">
-</p>
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+  </a>
