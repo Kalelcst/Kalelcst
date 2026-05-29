@@ -1,6 +1,6 @@
 <div align="flex">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=800&color=1117F7&background=07060B36&width=250&height=40&lines=%22Hello+World!%22;Eu+sou+o+Kalel%F0%9F%91%8B">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=800&color=F0F0F0&background=07060B36&width=250&height=40&lines=%22Hello+World!%22;Eu+sou+o+Kalel%F0%9F%91%8B">
   </a>
 </div>
 
