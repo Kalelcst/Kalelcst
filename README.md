@@ -32,7 +32,7 @@
   <a href="https://www.linkedin.com/in/kalelcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<!-- 
+
  <p>
    <img
      aling="left"
@@ -48,7 +48,7 @@
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalelcst&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
      />
 </p> 
--->
+
 
 ##
 <picture align="Left">
