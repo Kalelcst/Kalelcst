@@ -6,7 +6,7 @@
 
 ##
 
-<p aling="justify"> Recém-formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Atualmente, venho aprofundando meus conhecimentos em desenvolvimento backend, além de explorar áreas como desenvolvimento web, automação e banco de dados. Estou sempre em busca de novos aprendizados, desafios e oportunidades para evoluir profissionalmente e criar soluções eficientes e inovadoras.
+<p aling="justify"> Formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software. Atualmente, venho aprofundando meus conhecimentos em desenvolvimento backend, além de explorar áreas como desenvolvimento web, automação e banco de dados. Estou sempre em busca de novos aprendizados, desafios e oportunidades para evoluir profissionalmente e criar soluções eficientes e inovadoras.
 
 
 <div style="display: inline_block"><br>
@@ -24,13 +24,6 @@
 </div>
   
   ##
-<div> 
-<h4 align="left">Connect with me!</h4>
-  <a href="https://www.instagram.com/kalel_cst/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/kalel465" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:kalelcst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/kalelcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 
  <p>
@@ -49,6 +42,14 @@
      />
 </p> 
 
+
+<div> 
+<h4 align="left">Conecte-se comigo!</h4>
+  <a href="https://www.instagram.com/kalel_cst/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/kalel465" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kalelcst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kalelcosta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ##
 <picture align="Left">
